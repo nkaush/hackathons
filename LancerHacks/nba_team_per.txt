@@ -1,0 +1,30 @@
+Toronto Raptors:14.281818181818183
+Philadelphia 76ers:16.0875
+Boston Celtics:13.833333333333334
+Brooklyn Nets:12.41875
+New York Knicks:11.364285714285714
+Denver Nuggets:15.499999999999998
+Oklahoma City Thunder:13.357142857142858
+Portland Trailblazers:13.050000000000002
+Utah Jazz:13.5
+Minnesota Timberwolves:12.3875
+Milwaukee Bucks:14.585714285714287
+Indiana Pacers:14.72
+Detroit Pistons:12.200000000000003
+Chicago Bulls:12.273333333333335
+Cleveland Cavaliers:13.479999999999997
+Golden State Warriors:15.319999999999999
+Los Angeles Clippers:13.194117647058825
+Sacramento Kings:13.77142857142857
+Los Angeles Lakers:14.256250000000001
+Phoenix Suns:11.859999999999998
+Charolette Hornets:12.41875
+Miami Heat:13.214285714285717
+Orlando Magic:12.921428571428573
+Washington Wizards:14.243750000000002
+Atlanta Hawks:12.920000000000003
+Houston Rockets:14.528571428571428
+San Antonio Spurs:13.949999999999998
+Dallas Mavericks:15.206249999999999
+New Orleans Pelicans:13.657142857142858
+Memphis Grizzles:12.117647058823527
