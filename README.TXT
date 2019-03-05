@@ -8,5 +8,5 @@ PROJECT TITLE: NBA Gambling Analysis based on Average Player Efficiency Rating p
 PURPOSE OF PROJECT: Show the small margin of luck in NBA betting and gambling. 
 VERSION or DATE: 1.0
 HOW TO START THIS PROJECT: Run the lh.py file in python3 then run the readFile() method in the Starter class.
-AUTHORS: Neil Kaushikkar, Ankur Malik, Shervil Patel, Ankur Malik
+AUTHORS: Neil Kaushikkar
 USER INSTRUCTIONS:
